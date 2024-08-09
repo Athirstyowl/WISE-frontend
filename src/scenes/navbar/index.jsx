@@ -264,7 +264,7 @@ const NavBar = () => {
             transition="opacity 0.5s"
             fontSize="20px"
           >
-            Please continue spilling the tea ! :)
+            Please continue spilling the tea !
           </Box>
         )}
       </FlexBetween>
